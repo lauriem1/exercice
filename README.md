@@ -31,8 +31,8 @@ Pour vous guider dans le choix des balises, des attributs et des valeurs d'attri
 Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Commenter votre observation. Pourrait-on faire mieux ? Donnez un exemple de ce que vous proposeriez.
 
 - https://www.sail.ca/fr/chaussures/junior/multi-sport-et-plein-air 
------
------
+Les chaussures sont bien identifiés dans les catégories différentes de Junior : enfant, tout-petit, garçon)
+Les types d'utilisations des chaussures sont mentionnés comme chaussure de course en sentier, chaussure multisports, ect.
 -----
 [capture-écran]()
 - https://amzn.to/2NnbKPN 
