@@ -81,21 +81,15 @@ __Tutoriel sur les formulaires du w3c__
 [Table des matières (outline)](images/3-table-des-matieres_h1-h6/3-1/tuto-form-w3c-outline.png) 
 
 Réponse : 
+Oui le document est correct dans le formulaire du w3c. Il respecte la hiérarchie des titres. Le titre principal est le titre de la page courante et non du site. Tout respecte les régles sur les h1-h6.
 
-----
-----
-----
 
 __L’affaire Savtchenko__ 
 [Article](images/3-table-des-matieres_h1-h6/3-1/article-savtchenko.pdf)  
 [Table des matières (outline)](images/3-table-des-matieres_h1-h6/3-1/article-savtchenko-outline.png) 
   
 Réponse : 
-
-----
-----
-----
-
+Le H1 doit être le sujet principal de la page et donc placer dès le début. On ne peut pas n'en mettre aucun ou le mettre après des h2. On doit suivre l'ordre logique, ce qui n'est pas respecter dans l'article savtchenko à cause du h1 placé après des h2.
 
 #### 3.2 S'exercer à bien structurer
 
