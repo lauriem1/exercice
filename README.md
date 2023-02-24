@@ -1,8 +1,8 @@
 # Exercice d'accessibilité des contenus
 
 ## Équipe
-- Prénom nom
-- Prénom nom
+- Isabel Hurtado
+- Laurie Martineau
 
 ## Objectifs
 - Expérimenter le versionnage de fichiers avec GIT
@@ -33,23 +33,23 @@ Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Co
 - https://www.sail.ca/fr/chaussures/junior/multi-sport-et-plein-air 
 Les chaussures sont bien identifiés dans les catégories différentes de Junior : enfant, tout-petit, garçon)
 Les types d'utilisations des chaussures sont mentionnés comme chaussure de course en sentier, chaussure multisports, ect.
+Pour faire mieux, il faudrait ajouter les couleurs des chaussures dans les alt des vignettes en bas des images. De plus, il serait utile d'ajouter la marque de la chaussure dans le alt.
 -----
-[capture-écran]()
+[capture-écran](images/1-textes-alternatifs/1-2/pageSailChaussures_analyseAlt.png)
 - https://amzn.to/2NnbKPN 
+Il y a une trop grosse présence d'informations dans le alt et il y manque d'organisation. Cela peut être difficile de s'en rappeler et donc la personne non-voyante devra réécouter plusieurs fois la description.
+Pour faire mieux, il faudrait réduire la quantité d'informations et la structurer. De plus, il manque l'information sur la couleur du vélo.
 -----
------
------
-[capture-écran]()
+[capture-écran](images/1-textes-alternatifs/1-2/pageAmazonVelo_analyseAlt.png)
 - https://www.lesoleil.com/  
+Les alt remplace les titres des articles. C'est une bonne méthode puisque les images sont à titre décoratif et ne présentent pas d'informations.
+Pour s'améliorer, le site devrait rajouter la catégorie de nouvelles dans les alt. De cette façon, les utilisateurs peuvent savoir s'ils visionnent un article de tel type, soit d'actualités, de faits divers, ect dans leurs nouvelles du jour.
 -----
------
------
-[capture-écran]()
+[capture-écran](images/1-textes-alternatifs/1-2/pageSoleil_analyseAlt.png)
 - https://www.rad.ca/  
------
------
------
-[capture-écran]()
+Les pages ne présentent aucuns textes alternatifs sur les images. L'accessibilité n'est pas du tout présente.
+Même si les images ne présentent pas d'informations, il serait important de leurs ajouter un alt afin de décrire ce qui s'y trouve pour mieux comprendre le sujet de l'article ou de la chronique.
+[capture-écran](images/1-textes-alternatifs/1-2/pageRad_analyseAlt.png)
 
 Astuce  
 Parfois, l’affichage des alt ne donnent pas un résultat facile à lire… lorsque cela se produit, faites un clic droit de la souris et choisir inspecter pour positionner l’inspecteur de DOM sur le HTML de l’image.
@@ -63,9 +63,9 @@ Pour chaque problème de contraste identifié,
 documenter le problème par une capture-écran incluant dans son cadre, la zone fautive à gauche et à droite, les résultats détaillés de l’outil, tel que démontré dans l’exemple ci-dessous.
 
 Sauvegarder les captures dans le dossier images. Compléter les liens ci-dessous:
-- [Contraste insuffisant 1](images/...)
-- [Contraste insuffisant 2](images/...)
-- [Contraste insuffisant 3](images/...)
+- [Contraste insuffisant 1](images/2-contrastes-couleurs/1contrasteCouleur_SiteWebAQuebec.png)
+- [Contraste insuffisant 2](images/2-contrastes-couleurs/2contrasteCouleur_SiteWebAQuebec.png)
+- [Contraste insuffisant 3](images/2-contrastes-couleurs/3contrasteCouleur_SiteWebAQuebec.png)
 
 ### 3. Structurer avec les h1-h6 une table des matières
 
