@@ -81,7 +81,7 @@ __Tutoriel sur les formulaires du w3c__
 [Table des matières (outline)](images/3-table-des-matieres_h1-h6/3-1/tuto-form-w3c-outline.png) 
 
 Réponse : 
-Oui le document est correct dans le formulaire du w3c. Il respecte la hiérarchie des titres. Le titre principal est le titre de la page courante et non du site. Tout respecte les régles sur les h1-h6.
+Oui la table des matières du formulaire w3c est correcte. Elle respecte la hiérarchie des titres. Le titre principal est le titre de la page courante et non du site. Tout respecte les régles sur les h1-h6.
 
 
 __L’affaire Savtchenko__ 
@@ -97,7 +97,7 @@ Le H1 doit être le sujet principal de la page et donc placer dès le début. On
 - Ajouter un calque de blanc à 50% de transparence
 - Dans un 3e calque, par-dessus, identifiez les titres et leurs niveaux (h1-h6) de manière voyante (couleur rouge et font-size suffisant)
 - Sauvegarder au format .psd ou .png dans le même dossier.
-- [Relier ce fichier-réponse ici]()
+- [Relier ce fichier-réponse ici](images/3-table-des-matieres_h1-h6/3-2/concevoir-un-design-sans-la-couleur.png)
 
 ### 4. Baliser un tableau de données pour qu’il soit accessible
 
