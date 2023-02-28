@@ -114,6 +114,7 @@ Chaque cellule `<td>` du tableau doit avoir un attribut headers avec comme valeu
 
 Styler le tableau conformément au fichier [consommation-poissons.pdf](images/4-tableau-de-donnees/consommation-poissons.pdf).
 
+
 #### Ressources
 •	balisage accessible d’un tableau (voir les notes du cours 10)
 •	balisage html : https://www.w3schools.com/TAGs/tag_table.asp
